@@ -1,0 +1,14 @@
+{
+    "name": "mariusadam/elastic-hawkeye",
+    "description": "Project used for learning/improving ElasticSearch skills",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marius Adam",
+            "email": "marius.adam134@gmail.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "^6.0"
+    }
+}
